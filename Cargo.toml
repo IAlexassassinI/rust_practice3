@@ -1,5 +1,5 @@
 [package]
-name = "my_parser_test"
+name = "my_parser_test_rust_practice_3_OS"
 version = "0.1.0"
 edition = "2021"
 description = "some description"
