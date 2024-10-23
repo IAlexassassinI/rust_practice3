@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Oleksandr Shevchenko"]
 description = "some description"
+license = "MIT"
 
 [dependencies]
 peg = "0.8.4"
