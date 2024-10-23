@@ -2,6 +2,7 @@
 name = "my_parser_test_rust_practice_3_OS"
 version = "0.1.0"
 edition = "2021"
+authors = ["Oleksandr Shevchenko"]
 description = "some description"
 
 [dependencies]
